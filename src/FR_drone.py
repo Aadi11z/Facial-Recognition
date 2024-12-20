@@ -5,7 +5,7 @@ import numpy as np
 from mtcnn.mtcnn import MTCNN
 import face_recognition
 import logging
-import X
+import Facial_Recognition.X as X
 
 logging.basicConfig(
     level=logging.INFO,
