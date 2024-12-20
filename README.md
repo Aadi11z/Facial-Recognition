@@ -1,1 +1,1 @@
-example readme update later
+Facial Recognition Project
